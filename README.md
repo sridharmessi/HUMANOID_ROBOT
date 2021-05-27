@@ -20,3 +20,5 @@ For viewing the segregation work we deployed a method and called a function, whi
 After detecting the object we store the scanned object count and segragaton count in thing speak cloud using API keys-‘NJM6WXH3J936SEZU’
 We to push the scanned object into right spot into red bins and green bins  usinfg servo motor sg90 . By rotating into  0  degree we push the  biodegradable object into green bin and similarly we by rotating into  90  degree we push the  non-biodegradable object into red bin
   
+  we send the scanned count to node red and from we excrate the count using Mqtt and after that we display the count using dasboard with help of slider , gauge node .
+  
