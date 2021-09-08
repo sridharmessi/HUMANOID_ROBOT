@@ -8,7 +8,7 @@ The robot is composed of three parts
 | hand-(Robotic arm) |
 | leg(Robotic leg) | 
   
- # `software  `
+ # `Software  `
  
  + NODE-RED
  + PYTHON
