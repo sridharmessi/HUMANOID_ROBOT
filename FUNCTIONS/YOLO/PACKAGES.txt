@@ -1,2 +1,0 @@
-OPEN CV
-COCO- NAMES
